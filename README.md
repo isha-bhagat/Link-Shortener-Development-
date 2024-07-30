@@ -1,4 +1,3 @@
-# Link-Shortener-Development-
 # Link Shortener Project
 
 This project is part of my Java programming internship. The goal is to create a simple application that converts long URLs into short, unique links, making them easier to share. I'll use Java to build this tool, focusing on generating unique short URLs and handling any errors that might occur, such as duplicate URLs or invalid inputs.
